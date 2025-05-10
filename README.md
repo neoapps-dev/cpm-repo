@@ -7,7 +7,6 @@ The official repository for [cpm](https://github.com/neoapps-dev/cpm). The C Pac
 cpm-repo
 
 └── package
-
     └── version.tar.gz
 
 ## Submitting
